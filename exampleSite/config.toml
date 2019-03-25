@@ -4,6 +4,13 @@ title = "Hugo Story Theme"
 paginate = 5
 buildFuture = true
 
+theme = "story"
+
+relativeURLs = true
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "monokai"
+
 [[menu.social]]
   name = "GitHub"
   title = "fab fa-github-square"
